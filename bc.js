@@ -29,4 +29,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login("NTc0MzIyNzQ0ODg0MzMwNTE2.XNnjTg.95Ft-wP3ghK8lbZ4N9jV2adM3QQ");
+client.login(process.env.BOT_TOKEN);
